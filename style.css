@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: green;
+    background-color: black;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@ body{
 div{
    height: 70vh;
    width: 60%;
-   background-color: yellow;
+   background-color:aqua;
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -25,7 +25,7 @@ div{
     padding: 1rem;
     border-radius: 0.5rem;
     font-size: 1rem;
-    background-color: blue;
+    background-color: grey;
 }
 
    
